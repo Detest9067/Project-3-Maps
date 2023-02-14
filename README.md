@@ -32,12 +32,13 @@ Once we know all the different countries we can choose from, we will look at the
 
 ### A look at the data
 
-![Alt text](image.png)
+![image](https://user-images.githubusercontent.com/119608737/218664646-931e1678-c55a-4e8b-a872-f7c866d5e53c.png)
 
 As you can see, Bahrain is the clear cheapest option with a tax rate of 0%, with Hungary in 2nd place with a rate of 9%, and Singapore in 3rd with a rate of 17%. 
 
 Next we take a look at this [trusty website](https://www.ura.gov.sg/maps/), which provides data about the zoning of Singapore
 
+![singapore_zones](https://user-images.githubusercontent.com/119608737/218664678-a89782f5-4488-48b4-9dfd-a4eb9b3a27ba.png)
 
 As you can see in the map, the Eastern/Western parts of Singapore are all a nice color of burgendy-esque red. This means they're zoned for business.
 
