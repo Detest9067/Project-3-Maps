@@ -1,0 +1,21 @@
+ISO3,Country,Continent,Corporate Tax Rate
+AUS,Australia,OC,30.0
+AUT,Austria,EU,25.0
+AZE,Azerbaijan,AS,20.0
+BHR,Bahrain,AS,0.0
+BEL,Belgium,EU,25.0
+BRA,Brazil,SA,34.0
+CAN,Canada,NO,26.21
+CHN,China,AS,25.0
+FRA,France,EU,25.825
+DEU,Germany,EU,29.83
+HUN,Hungary,EU,9.0
+ITA,Italy,EU,27.81
+JPN,Japan,AS,29.74
+MEX,Mexico,NO,30.0
+MCO,Monaco,EU,25.0
+NLD,Netherlands,EU,25.8
+PRT,Portugal,EU,31.5
+SGP,Singapore,AS,17.0
+ESP,Spain,EU,25.0
+TUR,Turkey,AS,23.0
