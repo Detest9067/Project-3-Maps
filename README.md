@@ -43,5 +43,10 @@ Next we take a look at this [trusty website](https://www.ura.gov.sg/maps/), whic
 As you can see in the map, the Eastern/Western parts of Singapore are all a nice color of burgendy-esque red. This means they're zoned for business.
 
 Now we use the Foursquare API to do some searching around Singapore, based off the decision criteria from above. 
+![Screenshot from 2023-02-14 09-08-12](https://user-images.githubusercontent.com/119608737/218676261-c96646dd-1438-400c-911f-7006ec3f3d0d.png)
+
+As you can see, there is a nice combination of coffee, basketball, and schools out West. I think I know where to look!
+
+![Screenshot from 2023-02-14 09-09-50](https://user-images.githubusercontent.com/119608737/218676613-935388d7-3fdf-4c15-961d-8401dd47fb07.png)
 
 
